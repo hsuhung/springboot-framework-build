@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    data-username: root
+    password: mysql#123456
+    url: jdbc:mysql://localhost:3360/test?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
